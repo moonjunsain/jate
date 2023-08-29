@@ -11,6 +11,9 @@ This is a product of a challenge provided by UC Berkeley Extension Coding Bootca
 This is just another text editor that allows you to edit texts and save it in your local browser database
 You can also install 
 
+## Deployed Website
+[jate](https://just-another-text-editor-jm-7f4d21be4204.herokuapp.com/)
+
 ## Table of Contents
 
 
